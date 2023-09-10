@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suniluth
+- 👋 Hi, I’m Sunil Uthukota
 - 👀 I’m interested in anime, Music and open conversations
 - 🌱 I’m currently learning "Python"
 
